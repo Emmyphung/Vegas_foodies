@@ -1,5 +1,9 @@
 # Vegasfoodies
-Data source: https://www.kaggle.com/yelp-dataset/yelp-dataset
+### Food Happens in Vegas: How can restaurants improve their Yelp profiles for success?
+
+**Data source**: https://www.kaggle.com/yelp-dataset/yelp-dataset
+
+**Authors**: Elizabeth Combs, Anu-Ujin Gerelt-Od, Wendy Hou, Emmy Phung
 
 The purpose of this data mining project is to examine how restaurants can improve their Yelp profile to become more “successful” on Yelp in Las Vegas, Nevada. 
 
