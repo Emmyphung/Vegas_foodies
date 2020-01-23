@@ -15,4 +15,4 @@ Finally, I created recommender system that restaurant owners can use to study th
 
 **Models**: Decision Tree, Random Forest, and Logistic Regression.
 
-<center><img src="https://github.com/Emmyphung/portfolio/blob/master/images/Vegas_foodies.png"/></center>
+<center><img src="https://github.com/Emmyphung/emmyphung.github.io/blob/master/images/yelp_project.png"/></center>
